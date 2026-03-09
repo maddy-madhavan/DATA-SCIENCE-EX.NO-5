@@ -1,10 +1,10 @@
 # EXNO-5-DS-DATA VISUALIZATION USING MATPLOT LIBRARY
 
-# NAME : PRADEEPA B
+# NAME : MADHAVAN K
 
-# REG NO : 212225040308
+# REG NO : 212224220054
 
-# REF NO : 25017224
+# REF NO : 24901129
 
 # Aim:
   To Perform Data Visualization using matplot python library for the given datas.
